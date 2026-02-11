@@ -1,0 +1,1 @@
+# aws-windows-sysmon-lab-day1
