@@ -1,4 +1,3 @@
-# AWS-windows-sysmon-lab-day1
 # AWS Windows Sysmon Lab – Day 1
 
 ## 📌 Lab Objective
