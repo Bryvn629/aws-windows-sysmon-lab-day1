@@ -130,6 +130,15 @@ Ready for log forwarding and centralized monitoring (Day 2).
 ### Sysmon Events in Event Viewer
 ![Event Viewer](screenshots/04-event-viewer-sysmon-events.png)
 
+## 🔎 Key Skills Demonstrated
+
+- AWS EC2 provisioning and remote Windows administration
+- Sysmon installation and configuration validation
+- Windows Event Viewer navigation for security telemetry
+- Endpoint logging setup used in SOC workflows
+- Basic threat detection visibility preparation
+
+
 
 
 
