@@ -116,6 +116,21 @@ Successfully deployed and validated a cloud-hosted Windows monitoring environmen
 
 Ready for log forwarding and centralized monitoring (Day 2).
 
+## Screenshots
+
+### EC2 Instance Running
+![EC2 Running](screenshots/01-ec2-instance-running.png)
+
+### Sysmon Configuration Loaded
+![Sysmon Config](screenshots/02-sysmon-config-loaded.png)
+
+### Sysmon Installation Verified
+![Sysmon Installed](screenshots/03-sysmon-installed-cmd.png)
+
+### Sysmon Events in Event Viewer
+![Event Viewer](screenshots/04-event-viewer-sysmon-events.png)
+
+
 
 
 
