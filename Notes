@@ -1,0 +1,4 @@
+day1-summary.md
+This lab simulates a SOC analyst onboarding a Windows endpoint into monitoring.
+
+I deployed a Windows EC2 instance in AWS, installed Sysmon for detailed endpoint telemetry, and verified security logs through Event Viewer to prepare for detection and investigation workflows.
